@@ -1,10 +1,10 @@
 ### Olá! Eu sou a Amanda 🐱
 
 
-<div>
+<div lign="center">
   <a href="https://github.com/AmandaMendes06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaMendes06&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaMendes06&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AmandaMendes06&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaMendes06&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mandy-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
