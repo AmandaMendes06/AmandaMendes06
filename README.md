@@ -17,7 +17,7 @@
   <img align="center" alt="Mandy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Mandy-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg">
   <img align="center" alt="Mandy-PhP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1005138887284367371/1019766358268989461/download20220903211208.png?width=676&height=676">
+  <img align="right" alt="Mandy-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1005138887284367371/1019766358268989461/download20220903211208.png?width=676&height=676">
 </div>
   
   ##
