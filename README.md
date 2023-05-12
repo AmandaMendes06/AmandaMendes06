@@ -11,9 +11,9 @@
     
   <img align="center" alt="Mandy-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   
-      <img align="right" alt="Mandy-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1026327617592381522/1039642012011475084/download20220903213730.png?width=676&height=676">
+      <img align="right" alt="Mandy-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1026327617592381522/1039642012011475084/download20220903213730.png?width=676&height=676"/>
  
-     <img align="right" alt="Mandy-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1026327617592381522/1039655945489350666/qrchimpX1024_1.png?width=676&height=676">
+     <img align="right" alt="Mandy-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1026327617592381522/1039655945489350666/qrchimpX1024_1.png?width=676&height=676"/>
   
 </div>
   
