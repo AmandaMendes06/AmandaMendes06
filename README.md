@@ -7,7 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandMendes&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mandy-html" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg](https://www.flaticon.com/br/icone-gratis/html_1051277?term=html&page=1&position=3&origin=search&related_id=1051277)">
+  <img align="center" alt="Mandy-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
       <img align="right" alt="Mandy-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1026327617592381522/1039642012011475084/download20220903213730.png?width=676&height=676">
      <img align="right" alt="Mandy-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1026327617592381522/1039655945489350666/qrchimpX1024_1.png?width=676&height=676">
   
